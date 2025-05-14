@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://github.com/flame-colored/test2_test2/issues',
   },
   reactStrictMode: true,
-  basePath: '1.1/',
+  basePath: '/',
   trailingSlash: true,
   images: {
     unoptimized: true,
